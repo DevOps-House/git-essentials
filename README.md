@@ -9,16 +9,16 @@ What Is Git?
 * The commit history makes Git fast, as now a network connection is not needed to create commits or perform diffs between commits.
 
 So here is the basic commands of git
-> git config
-> git init
-> git add
-> git diff
-> git commit
-> git reset
-> git status
-> git merge
-> git push
-> git pull
-> git checkout
-> git branch 
+* git config
+* git init
+* git add
+* git diff
+* git commit
+* git reset
+* git status
+* git merge
+* git push
+* git pull
+* git checkout
+* git branch 
 
